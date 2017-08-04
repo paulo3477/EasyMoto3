@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Easy Moto</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="clientes">Clientes</string>
+    <string name="contas">Contas</string>
+    <string name="settings">Configurações</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="despesa">Despesa</string>
+    <string name="corrida_avulsa">Corrida avulsa</string>
+    <string name="nome_do_cliente">Nome do cliente</string>
+    <string name="valor_da_corrida">valor da corrida</string>
+    <string name="telefone_do_cliente">Telefone do cliente</string>
+    <string name="salvar_contato">Salva o contato na base de dados</string>
+    <string name="confirmar_corrida">Confirmar Corrida</string>
+    <string name="valor_da_despesa">Valor da Despesa</string>
+    <string name="salvar_despesa">Salvar despesa</string>
+    <string name="litros">Litros</string>
+    <string name="descri_o">Descrição</string>
+</resources>
